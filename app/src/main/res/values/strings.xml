@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ficha Médica</string>
+    <string name="identifier_hint">Identificador</string>
+    <string name="name_hint">Nome</string>
+    <string name="age_hint">Idade</string>
+    <string name="history_hint">Histórico médico</string>
+    <string name="save_button">Salvar</string>
+</resources>
